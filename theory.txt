@@ -1,0 +1,24 @@
+
+
+=====Grid System======
+
+Bootstap Color:
+
+1. successs (Green Type)
+2. info (blue type)
+3. dark (ash type)
+4. light (white type)
+5. warning (orange type)
+6. danger (red)
+7. primary (blue)
+8. secondary (ash type)
+
+Device Name:
+
+sm, md, lg, xl
+
+
+
+
+
+
